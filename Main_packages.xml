@@ -1,0 +1,7 @@
+<packages>
+    <package>
+        <name>Hello</name>
+        <download_url>https://raw.githubusercontent.com/kev1224/VelocityVista-Packages/refs/heads/main/hello.sprite3</download_url>
+    </package>
+</packages>
+
